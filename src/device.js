@@ -3,7 +3,7 @@ module.exports = (config) => {
     FriendlyName: 'HDHomerun (Antennas)',
     Manufacturer: 'Silicondust',
     ManufacturerURL: 'https://github.com/jfarseneau/antennas',
-    ModelNumber: 'HDTC-2US',
+    ModelNumber: 'HDHR-US',
     FirmwareName: 'hdhomeruntc_atsc',
     TunerCount: config.tuner_count,
     FirmwareVersion: '20170930',
